@@ -1,1 +1,1 @@
-# muaz.com
+# muaz.github.io
